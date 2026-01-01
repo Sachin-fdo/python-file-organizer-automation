@@ -18,5 +18,5 @@ This Python script automatically organizes files in a folder based on file type.
 
 ### Dry run (recommended)
 ```bash
-python organizer.py sample_folder
+python organizer.py sample_folder # sample_folder change this with actual folder name
 ```
